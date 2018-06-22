@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/21 18:03:13.084.dproj,C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\GeradorClasses.dproj=C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\GeradorClasses.dproj</Transaction>
+    <Transaction>2018/06/21 18:03:20.382.pas,C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\Principal.pas=</Transaction>
+    <Transaction>2018/06/21 18:03:20.382.dfm,C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\Principal.dfm=</Transaction>
+    <Transaction>2018/06/21 18:03:20.431.pas,C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\Funcoes.pas=</Transaction>
+    <Transaction>2018/06/22 12:51:07.096.pas,C:\Desenvolvimento\fontes\projeto\VoAutor.pas=</Transaction>
+    <Transaction>2018/06/22 12:51:07.137.pas,C:\Desenvolvimento\fontes\projeto\VoAlunos.pas=</Transaction>
+    <Transaction>2018/06/22 12:51:07.165.pas,C:\Desenvolvimento\fontes\projeto\DaoBase.pas=</Transaction>
+    <Transaction>2018/06/22 12:51:07.185.pas,C:\Desenvolvimento\fontes\projeto\DaoAutor.pas=</Transaction>
+    <Transaction>2018/06/22 12:51:07.235.pas,C:\Desenvolvimento\fontes\projeto\DaoAlunos.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/22 13:01:24.281.pas,C:\Users\tiago\Documents\RAD Studio\Projects\Unit3.pas=C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\projeto exemplo\ProjetoExemploDaoVo.pas</Transaction>
+    <Transaction>2018/06/22 13:01:24.281.dfm,C:\Users\tiago\Documents\RAD Studio\Projects\Unit3.dfm=C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\projeto exemplo\ProjetoExemploDaoVo.dfm</Transaction>
+    <Transaction>2018/06/22 13:02:33.427.dproj,C:\Users\tiago\Documents\RAD Studio\Projects\Project3.dproj=C:\Desenvolvimento\fontes\ferramentas\GeradorClasses_Dao_Vo_Delphi_SQL_Server\projeto exemplo\prjExemploDaoVo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
